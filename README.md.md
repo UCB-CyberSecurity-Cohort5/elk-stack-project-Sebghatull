@@ -76,7 +76,7 @@ Make sure the host connected to 5601,9200 and 5044
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Update the path with the name of your screenshot of docker ps output](ImagesforDaytwo/sudodockerpsJPG)
+![TODO: Update the path with the name of your screenshot of docker ps output](Diagrams/Sudodockerps.JPG)
 
 
 ### Target Machines & Beats
